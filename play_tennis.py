@@ -1,7 +1,7 @@
 from player import Player
 from game import Game
 
-nadal = Player("Rafael Nadal11")
+nadal = Player("Rafael Nadal")
 djokovic = Player("Novak djokovic")
 
 test_game = Game((nadal,djokovic),1)
